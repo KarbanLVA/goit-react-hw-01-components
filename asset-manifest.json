@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KarbanLVA/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/KarbanLVA/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "index.html": "/KarbanLVA/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/KarbanLVA/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/KarbanLVA/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
