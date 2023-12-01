@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/KarbanLVA/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/KarbanLVA/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/KarbanLVA/goit-react-hw-01-components/static/css/main.b73092b4.css",
+    "main.js": "/KarbanLVA/goit-react-hw-01-components/static/js/main.c5b312d5.js",
     "index.html": "/KarbanLVA/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/KarbanLVA/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/KarbanLVA/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.b73092b4.css.map": "/KarbanLVA/goit-react-hw-01-components/static/css/main.b73092b4.css.map",
+    "main.c5b312d5.js.map": "/KarbanLVA/goit-react-hw-01-components/static/js/main.c5b312d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.b73092b4.css",
+    "static/js/main.c5b312d5.js"
   ]
 }
